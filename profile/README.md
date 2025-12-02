@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a) à nossa organização! 👋  
 
 <p style="text-align: center;">
-  <img src="./logo" alt="Logo da Softwave" style="max-width: 100%; height: auto;">
+  <img src="./MicrosoftTeams-image.png" alt="Logo da Softwave" style="width: 50%; height: auto;">
 </p>
 
 ## Sobre a Softwave  
@@ -10,13 +10,11 @@ A **Softwave**
 
 ---
 
-### ⚖️ Sobre a Lauriano & Leão
- Através do **CaringU**, nossa plataforma principal, capacitamos profissionais com ferramentas que simplificam a gestão, melhoram o acompanhamento de alunos e potencializam a personalização dos treinos. Alinhada às principais tendências do setor, como **digitalização e automação**, a **CaringU** transforma a maneira como profissionais e alunos interagem e evoluem juntos.  
+### ⚖️ Sobre a Lauriano & Leão.  
 
-Com uma abordagem centrada na tecnologia e na inovação, a empresa se posiciona como uma **parceira estratégica para a modernização do setor fitness**.
 
 <p style="text-align: center;">
-  <img src="./logo" alt="Logo da softwave" style="max-width: 100%; height: auto;">
+  <img src="./logoLeaoIcone-semfundo.PNG" alt="Logo da softwave" style="width: 40%; height: auto;">
 </p>
 
 ## 🦉 Equipe  
