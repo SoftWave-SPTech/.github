@@ -23,7 +23,7 @@ Aqui estão os membros da nossa equipe:
 
 👨‍🚀 [Ana Claudia](https://github.com/anacampaner)  
 👨‍🚀 [Bryan Ferro](https://github.com/Brzenit)  
-👨‍🚀 [Christhian Lauriano](https://github.com/Lauriano2003)  
+👨‍🚀 [Cristhian Lauriano](https://github.com/Lauriano2003)  
 👨‍🚀 [Luana Cruz](https://github.com/lualuaSantosS2)  
 👨‍🚀 [Leticia Fonseca](https://github.com/letfonsecaa)  
 👨‍🚀 [Leonardo Carvalho](https://github.com/LeonardooCarvalhoSantos)
